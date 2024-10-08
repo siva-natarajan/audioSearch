@@ -1,4 +1,10 @@
 
+> npm install
+
+
+> npm start
+
+
 
 Standards followed:
 
