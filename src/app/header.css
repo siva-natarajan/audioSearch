@@ -1,0 +1,14 @@
+.header-bar {
+    display: flex;
+    padding: 15px 0;
+    background-color:greenyellow;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-title {
+    margin: 0;
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+}
